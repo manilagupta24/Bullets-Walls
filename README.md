@@ -1,2 +1,2 @@
-# Bullets-Walls
-To test the damage cause by a bullet on an object.
+# p5.play-boilerplate
+Boiler plate for p5.play
